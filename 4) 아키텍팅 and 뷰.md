@@ -15,10 +15,10 @@
         - 뷰포인트(viewpoint), 뷰타입(viewtype): 시스템을 아키텍처 수준에서 보는 관점 혹은 측면 (누가 보는가)
         - 뷰(view): 시스템을 이루는 요소와 그들의 연관관계를 추상적으로 표현 (어떤 데이터인가)
         
-        - 관점에 따른 뷰의 종류:
-            Static 관점: Classes, files, etc.
-            Runtime 관점: thread, data flow, etc.
-            Physical 관점: computers, actuators, etc.
+        - 뷰의 종류와 요소:
+            Static view: Classes, files, etc.
+            Runtime view: thread, data flow, etc.
+            Physical view: computers, actuators, etc.
             
         - 스타일(style): S/W 제약 사항을 표현할 수 있는 구성 요소와 연관관계의 특별한 type
 
